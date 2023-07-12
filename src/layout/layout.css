@@ -1,0 +1,10 @@
+.layout {
+    /*background-image: url("./../assets/images/Hero banner image@2x.png");*/
+    background-image: url("./../assets/images/Hero banner image@2x.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    flex-shrink: 0;
+    background-color: #ffffff;
+    padding: 40px 160px;
+    height: 100vh;
+}

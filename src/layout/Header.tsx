@@ -2,12 +2,12 @@ import React from 'react';
 import {Grid} from "@mui/material";
 import Logo from './../assets/images/Logo.png';
 import './header.css'
-import NavBar from "../components/home/banner-section/NavBar";
-import ActionBar from "../components/home/banner-section/ActionBar";
+import NavBar from "../components/common/NavBar";
+import ActionBar from "../components/common/ActionBar";
 
 const Header = () => {
     return (
-        <Grid container>
+        <Grid container className='navbar-section'>
             <Grid xs={5} className='header-navbar'>
                 <NavBar/>
             </Grid>
