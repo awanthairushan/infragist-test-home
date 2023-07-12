@@ -1,0 +1,34 @@
+.swiper-card {
+    width: 432px;
+    height: 124px;
+    flex-shrink: 0;
+    background-color: #DEF755 !important;
+    align-items: center;
+    margin-bottom: 60px;
+    padding: 32px 40px;
+}
+.swiper-card-image {
+    width: 120px !important;
+    height: 120px !important;
+    flex-shrink: 0;
+    border-radius: 100%;
+    border: 4px solid #FFF !important;
+}
+.swiper-card-header {
+    color: #000;
+    font-family: 'Bai Jamjuree', sans-serif;
+    font-size: 16px;
+    font-style: italic;
+    font-weight: 700;
+    line-height: normal;
+    text-transform: uppercase;
+    margin-bottom: 16px;
+}
+.swiper-card-body {
+    color: #000;
+    font-family: 'Poppins', sans-serif;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
