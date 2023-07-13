@@ -8,16 +8,16 @@ import ContactSection from "../components/home/contact-section/ContactSection";
 const HomePage = () => {
     return (
         <Grid container>
-            <Grid item>
+            <Grid item xs={12}>
                 <BannerSection/>
             </Grid>
-            <Grid item>
+            <Grid item xs={12}>
                 <CarouselSection/>
             </Grid>
-            <Grid item>
+            <Grid item xs={12}>
                 <ProductsSection/>
             </Grid>
-            <Grid item>
+            <Grid item xs={12}>
                 <ContactSection/>
             </Grid>
         </Grid>
