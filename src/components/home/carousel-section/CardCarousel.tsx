@@ -38,7 +38,7 @@ const CardCarousel = () => {
         {
             index: 5,
             imageLink: Card1Image,
-            body: "fermentum augue risus",
+            body: "Lorem ipsum dolor sit amet",
             price: "LKR 3,650.00"
         }
     ];
