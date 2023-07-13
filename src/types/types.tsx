@@ -4,3 +4,10 @@ export type SwiperDetailType = {
     header: string;
     body: string;
 }
+
+export type CarouselDetailType = {
+    index: number
+    imageLink: string;
+    body: string;
+    price: string;
+}

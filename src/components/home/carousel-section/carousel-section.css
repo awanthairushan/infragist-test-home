@@ -1,0 +1,28 @@
+.carousel-section {
+    padding-top: 130px;
+}
+.carousel-section-header {
+    margin-bottom: 20px;
+    color: #000;
+    text-align: center;
+    font-family: 'Poppins', sans-serif;
+    font-size: 50px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 60px;
+    text-transform: uppercase;
+}
+.carousel-section-paragraph {
+    padding-left: 200px;
+    padding-right: 200px;
+    color: #000;
+    text-align: center;
+    font-family: 'Bai Jamjuree', sans-serif;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 27px;
+}
+.carousel-section-carousel {
+    margin-top: 60px!important;
+}
