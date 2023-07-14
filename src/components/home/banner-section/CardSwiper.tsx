@@ -3,7 +3,7 @@ import {styled} from '@mui/material/styles';
 import {Box, Card, CardContent, CardMedia, Grid, Stack, Paper} from "@mui/material";
 import Card1Image from './../../../assets/images/Card 1.png'
 import Card2Image from './../../../assets/images/Card 2.png'
-import Card3Image from './../../../assets/images/Card 3.png'
+import Card3Image from './../../../assets/images/Change with slider@2x.png'
 import './card-swiper.css'
 import {SwiperDetailType} from "../../../types/types";
 
