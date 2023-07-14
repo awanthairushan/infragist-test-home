@@ -3,10 +3,12 @@
     box-shadow: none !important;
     margin-bottom: 60px !important;
 }
+
 .card-container * {
     box-shadow: none !important;
 }
-.carousel-card-body{
+
+.carousel-card-body {
     box-shadow: none !important;
     color: #000;
     text-align: center;
@@ -17,6 +19,7 @@
     line-height: normal;
     text-transform: capitalize;
 }
+
 .carousel-card-price {
     color: #000;
     text-align: center;
@@ -27,6 +30,7 @@
     line-height: normal;
     text-transform: uppercase;
 }
+
 .control-button {
     border-radius: 50%;
     width: 80px;
@@ -36,6 +40,7 @@
     border: 1px #D9D9D9 solid;
     cursor: pointer;
 }
+
 .control-button-prew {
     margin-right: 24px;
 }

@@ -1,0 +1,68 @@
+.contact-section {
+    margin-top: 120px;
+    background-color: #DEF755;
+    padding: 100px 136px;
+}
+
+.contact-section-header {
+    color: #000;
+    font-family: 'Poppins', sans-serif;
+    font-size: 50px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 60px;
+    text-transform: uppercase;
+}
+
+.contact-form {
+    width: 100%;
+    margin-top: 40px;
+}
+
+.form-input-message {
+    height: 165px;
+}
+
+.form-input-file .MuiInputBase-input {
+    padding: 0;
+}
+
+.form-input-file .MuiOutlinedInput-notchedOutline {
+    border: none !important;
+}
+
+.attach-image-cover {
+    display: flex;
+    align-items: center;
+}
+
+.attach-image {
+    color: #000;
+    text-align: center;
+    font-family: 'Bai Jamjuree', sans-serif;
+    font-size: 16px;
+    font-style: italic;
+    font-weight: 700;
+    line-height: normal;
+    text-transform: uppercase;
+    margin-left: 10px;
+}
+
+:hover {
+    cursor: pointer;
+}
+
+.send-message-button {
+    width: 325px;
+    height: 55px;
+    flex-shrink: 0;
+    background-color: #000;
+    color: #FFF;
+    text-align: center;
+    font-family: 'Bai Jamjuree', sans-serif;
+    font-size: 16px;
+    font-style: italic;
+    font-weight: 700;
+    line-height: normal;
+    text-transform: uppercase;
+}
