@@ -1,6 +1,7 @@
 .carousel-section {
     padding-top: 130px;
 }
+
 .carousel-section-header {
     margin-bottom: 20px;
     color: #000;
@@ -12,6 +13,7 @@
     line-height: 60px;
     text-transform: uppercase;
 }
+
 .carousel-section-paragraph {
     padding-left: 200px;
     padding-right: 200px;
@@ -23,6 +25,7 @@
     font-weight: 500;
     line-height: 27px;
 }
+
 .carousel-section-carousel {
-    margin-top: 60px!important;
+    margin-top: 60px !important;
 }

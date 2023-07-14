@@ -1,12 +1,14 @@
 .navbar-section {
     height: 10vh;
 }
+
 /*navbar*/
 .header-navbar {
     display: flex;
     align-items: center;
 }
-.header-navbar .navbar-link{
+
+.header-navbar .navbar-link {
     color: #ffffff !important;
     font-family: 'Bai Jamjuree', sans-serif;
     text-decoration: none;
@@ -25,11 +27,13 @@
     align-items: center;
     justify-content: end;
 }
-.header-action-bar .action-bar-icon-button{
+
+.header-action-bar .action-bar-icon-button {
     color: #ffffff;
     width: 26px;
     height: 26px;
 }
-.header-action-bar .action-bar-icon-button:hover{
+
+.header-action-bar .action-bar-icon-button:hover {
     cursor: pointer;
 }

@@ -8,13 +8,13 @@ import ActionBar from "../components/common/ActionBar";
 const Header = () => {
     return (
         <Grid container className='navbar-section'>
-            <Grid xs={5} className='header-navbar'>
+            <Grid item xs={5} className='header-navbar'>
                 <NavBar/>
             </Grid>
             <Grid item xs={2} className='header-logo'>
                 <img src={Logo} alt="LOGO" width={136} height={70}/>
             </Grid>
-            <Grid xs={5} className='header-action-bar'>
+            <Grid item xs={5} className='header-action-bar'>
                 <ActionBar/>
             </Grid>
         </Grid>
