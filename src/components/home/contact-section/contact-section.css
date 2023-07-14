@@ -1,5 +1,6 @@
 .contact-section {
     margin-top: 120px;
+    margin-bottom: 120px;
     background-color: #DEF755;
     padding: 100px 136px;
 }
@@ -47,8 +48,7 @@
     text-transform: uppercase;
     margin-left: 10px;
 }
-
-:hover {
+.attach-image:hover {
     cursor: pointer;
 }
 
